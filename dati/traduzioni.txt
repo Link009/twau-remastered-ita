@@ -1,0 +1,312 @@
+# Traduzioni manuali per The Wolf Among Us Remastered
+# Formato: inglese ==> italiano   ("=" lascia il testo originale, \n va a capo)
+# L'inglese e' quello della colonna "inglese" di merge\dettaglio.tsv (i tag {..} [..] si possono omettere).
+# Le righe normali valgono solo dove la traduzione 2014 non c'e'.
+# Per correggere una riga della traduzione 2014 si scrive "! " davanti: correzione forzata, vince su tutto.
+#   esempio:  ! Fuck off, Bufkin. ==> Vaffanculo, Bufkin.
+# Le correzioni forzate vanno in fondo, nella sezione "correzioni forzate".
+# Glossario della traduzione 2014: Bigby (non Luca), Neve / Miss Bianca / Miss Neve, Bianca Neve,
+# Fiabe, Terreni, Malia, Contenitore per Malie, Gimmi (Colin), Woody, Pancopinco (Dee),
+# Pincopanco (Dum), Crooked Man, Braccia Aperte, Boschi, Ufficio Affari, Grande Lupo Cattivo,
+# Libro delle Fiabe, Specchio Magico, Vice Sindaco, Re Cole, Signor Rospo, Rospo Jr / RJ,
+# Pozzo delle Streghe, Tredicesimo Piano, il Macellaio, Tiny Tim, Bestia (senza articolo).
+
+# --- boot ---
+Connecting to Telltale Games ==> Connessione a Telltale Games in corso
+Ok ==> =
+Press START to begin ==> Premi START per iniziare
+
+# --- capitoli ---
+OPEN ARMS ==> BRACCIA APERTE
+Open Arms ==> Braccia Aperte
+TRIP TRAP ==> =
+Trip Trap ==> =
+1 ==> =
+2 ==> =
+3 ==> =
+4 ==> =
+5 ==> =
+6 ==> =
+xxxxxxxxxxx ==> =
+xxxxxxxxxxxx ==> =
+
+# --- scene ricreate ed eliminate ---
+Only guy i know that drinks more than Bufkin. ==> L'unico che conosco che beve più di Bufkin.
+Crane. ==> =
+Mm-hm. ==> =
+No. ==> =
+walla walla walla ==> =
+... ==> =
+Aah! ==> =
+Faith ==> =
+Jill ==> =
+Sylvia ==> =
+TV ==> =
+Listen, buddy... I've been down this road. Had a thing with a girl from the Bronx. She worked over by Saint James. Girls like her... you can't change 'em. Take my advice. It don't end well... <<guid: >><<id:357138770>>: ==> Senti, amico... ci sono già passato. Avevo una storia con una ragazza del Bronx. Lavorava dalle parti di Saint James. Le ragazze così... non le cambi. Dammi retta. Non va mai a finire bene... <<guid: >><<id:357138770>>:
+No! ==> =
+Nooo... ==> =
+Oh. ==> =
+There's a lot of broken glass. Be careful. ==> Ci sono un sacco di vetri rotti. Stai attento.
+You folks have a great evening. F ==> Buona serata, gente.
+You were definitely goin' faster than that. ==> Andavi decisamente più veloce di così.
+No, no, no, no... ==> =
+No no no no no! ==> =
+1... 2... 3... ==> =
+101 ==> =
+107 ==> =
+701 ==> =
+Business Office. ==> Ufficio Affari.
+Snow. ==> Neve.
+Snow? ==> Neve?
+Hey, Snow... ==> Ehi, Neve...
+Magic Mirror ==> Specchio Magico
+Snow deserves justice, Crane. ==> Neve merita giustizia, Crane.
+Sorry, Colin. ==> Mi dispiace, Gimmi.
+In the aftermath of the Crooked Man's demise and Crane's betrayal Snow White is promoted. Her new role brings added pressure and strains her relationship with Bigby as her responsibilities grow. ==> Dopo la caduta del Crooked Man e il tradimento di Crane, Bianca Neve viene promossa. Il nuovo ruolo porta con sé pressioni sempre maggiori e, con il crescere delle sue responsabilità, mette a dura prova il suo rapporto con Bigby.
+In this twist on the original scene Beauty discovers Faith's severed head on the steps of the Woodlands. As Bigby questions her details are revealed about her personality and motivations. The scene was unfinished but portions of it are presented here. ==> In questa variante della scena originale, Bella scopre la testa mozzata di Faith sui gradini dei Boschi. Mentre Bigby la interroga, emergono nuovi dettagli sulla sua personalità e sulle sue motivazioni. La scena non è mai stata completata, ma qui ne vengono presentate alcune parti.
+After Beauty leaves, Bigby talks with Snow about their options for where to go next. ==> Dopo che Bella se ne va, Bigby parla con Neve di quale pista seguire.
+Bigby is interviewed by Kelsey regarding Snow's Murder. In this alternate version the questions are much more in depth, the choices are different and present a threat to Fabletown that wasn't seen in the original version. ==> Bigby viene interrogato da Kelsey sull'omicidio di Neve. In questa versione alternativa le domande sono molto più approfondite, le scelte sono diverse e mettono Favolandia di fronte a una minaccia assente nella versione originale.
+Bigby faces the results of his actions as he bids Mr. Toad, Colin and Toad Jr. goodbye. As Bigby is about to leave he's confronted with Nerissa who has her own story to reveal. This alternate ending features more dialogue options not explored in the original scene. ==> Bigby affronta le conseguenze delle sue azioni mentre saluta il Signor Rospo, Gimmi e Rospo Jr. Quando sta per andarsene, si trova di fronte Nerissa, che ha una storia tutta sua da rivelare. Questo finale alternativo offre altre opzioni di dialogo, non esplorate nella scena originale.
+
+# --- Libro delle Fiabe (fablespedia) ---
+Bloody Mary ==> =
+Georgie Porgie ==> =
+Jack Horner ==> =
+Johann ==> =
+Lily ==> =
+Nerissa ==> =
+Sleepy Hollow ==> =
+Vivian ==> =
+The Magic Mirror ==> Lo Specchio Magico
+The Thirteenth Floor of the Woodland building is home to a group of witches and wizards tasked with the protection of Fabletown. They use their powers to keep the community hidden from prying mundie eyes, but all magic has its limits... and every spell has its cost. ==> Il Tredicesimo Piano del palazzo dei Boschi ospita un gruppo di streghe e stregoni incaricati di proteggere Favolandia. Usano i loro poteri per tenere la comunità nascosta agli occhi indiscreti dei Terreni, ma ogni magia ha i suoi limiti... e ogni incantesimo ha un prezzo.
+A relic from the Homelands, the Witching Well is now located in a chamber inside the Woodland building, where it is used to dispose of things meant never to be seen again. Dead Fables are committed to its depths, as are the most unredeemable criminals. No one is entirely sure what lies at the bottom of the well, nor indeed if it has a bottom at all, but it is widely assumed to be the passageway to the final resting place. ==> Reliquia delle Terre Natie, il Pozzo delle Streghe si trova oggi in una camera all'interno del palazzo dei Boschi, dove viene usato per liberarsi di ciò che non deve essere mai più visto. Nelle sue profondità vengono gettate le Fiabe defunte, così come i criminali più irrecuperabili. Nessuno sa con certezza cosa si trovi in fondo al pozzo, né se un fondo ci sia davvero, ma si ritiene comunemente che sia il passaggio verso l'ultima dimora.
+After fleeing the Homelands, Bigby Wolf spent many years wandering through Europe. With a Fable colony quickly developing in the New World, Snow White and Feathertop tracked down the wolf and offered him passage to Fabletown. He agreed, and Snow cut him with a lycanthropy stained knife to give him the power to change into human form at will. Bigby became sheriff of Fabletown under King Cole's administration, but because of his violent past many Fables didn't trust him and he was banned from ever setting foot on The Farm. To this day he struggles to redeem himself in the eyes of the community. ==> Dopo aver abbandonato le Terre Natie, Bigby Wolf passò molti anni a vagare per l'Europa. Quando nel Nuovo Mondo iniziò a formarsi rapidamente una colonia di Fiabe, Bianca Neve e Feathertop rintracciarono il lupo e gli offrirono un passaggio per Favolandia. Lui accettò, e Neve lo ferì con un coltello intriso di licantropia per dargli il potere di assumere forma umana a suo piacimento. Bigby divenne lo Sceriffo di Favolandia sotto l'amministrazione di Re Cole, ma a causa del suo passato violento molte Fiabe non si fidavano di lui, e gli fu proibito per sempre di mettere piede nella Fattoria. Ancora oggi fatica a riscattarsi agli occhi della comunità.
+Much of Vivian's past is unknown since she prefers not to talk about her life back in the Homelands. She wanted to start fresh in Fabletown, but she finds herself working for Georgie at the Pudding and Pie. It's not a terrible life. Georgie took a liking to Vivian, so he doesn't make her take jobs at the Open Arms. Instead she plays hostess and helps Georgie ensure complete customer satisfaction. ==> Si sa ben poco del passato di Vivian, che preferisce non parlare della sua vita nelle Terre Natie. Voleva ricominciare da capo a Favolandia, ma si è ritrovata a lavorare per Georgie al Pudding & Pie. Non è una vita terribile. Georgie ha preso in simpatia Vivian, e per questo non la obbliga ad accettare lavori al Braccia Aperte. Lei invece fa gli onori di casa e aiuta Georgie a garantire la completa soddisfazione dei clienti.
+The Magic Mirror speaks mostly in rhyme and demands that others do the same. He also requires the name of whatever object or person you wish to find. If you follow these rules, the mirror will show you a glimpse of whatever you want to see, but nothing more. ==> Lo Specchio Magico parla quasi sempre in rima e pretende che gli altri facciano lo stesso. Vuole inoltre sapere il nome dell'oggetto o della persona che si desidera trovare. Se si rispettano queste regole, lo specchio mostrerà un barlume di ciò che si vuole vedere, ma niente di più.
+Glamour Tree ==> Albero delle Malie
+The Witching Well is located in a chamber inside the Woodland building, where it is used to dispose of things meant never to be seen again. Dead Fables are committed to its depths, as are the most unredeemable criminals. No one is entirely sure what lies at the bottom of the well, nor indeed if it has a bottom at all, but it is widely assumed to be the passageway to the final resting place. ==> Il Pozzo delle Streghe si trova in una camera all'interno del palazzo dei Boschi, dove viene usato per liberarsi di ciò che non deve essere mai più visto. Nelle sue profondità vengono gettate le Fiabe defunte, così come i criminali più irrecuperabili. Nessuno sa con certezza cosa si trovi in fondo al pozzo, né se un fondo ci sia davvero, ma si ritiene comunemente che sia il passaggio verso l'ultima dimora.
+Glamour Tube ==> Contenitore per Malie
+Dr. Swineheart is the resident Fabletown physician. So skilled in the art of instrumental surgery that he can safely operate on himself, he served as an army medic for many years, sometimes using his talents to impress the locals. He currently runs the "Special Research Section" of the Knights of Malta Hospital, so named to discourage people for investigating what is actually a reserved, Fables-focused health facility. ==> Il Dr. Cuordimaiale è il medico di Favolandia. È così abile nella chirurgia da poter operare persino se stesso in tutta sicurezza; per molti anni ha prestato servizio come medico militare, sfruttando a volte il suo talento per fare colpo sulla gente del posto. Oggi dirige la "Sezione Ricerche Speciali" dell'Ospedale dei Cavalieri di Malta, chiamata così per scoraggiare chiunque dall'indagare su quella che in realtà è una struttura sanitaria riservata, dedicata alle Fiabe.
+Grown from a seed spirited away from her family's enchanted orchard, this tree is the sole remaining source of Aunty Greenleaf's magical enchantments. Its bark is used for Glamour tubes, its leaves are crushed for ointments and spells, and its twigs and sticks can be used as rods for a variety of entrancing purposes. ==> Cresciuto da un seme sottratto al frutteto incantato della sua famiglia, quest'albero è l'unica fonte rimasta per gli incantesimi di Zia Fogliaverde. La sua corteccia serve per i Contenitori per Malie, le foglie vengono tritate per unguenti e incantesimi, e i rametti possono fare da bacchette per sortilegi di ogni genere.
+Glamours can be produced in a variety of ways, but one of the most common due to its ease of use is to take a small, hollowed out tube or container, and place within it several items unique to whomever the caster wants to copy. A witch is required for the reactionary charm. Two downsides of this type of glamour is that totally unique appearances are completely impossible, and the nature of the vessel makes it quite unstable. ==> Le Malie si possono creare in molti modi, ma uno dei più comuni, per la sua semplicità, consiste nel prendere un piccolo contenitore cavo e inserirvi alcuni oggetti appartenenti alla persona che si vuole imitare. Per l'incanto che innesca la reazione serve una strega. Questo tipo di Malia ha due svantaggi: è del tutto impossibile ottenere un aspetto completamente originale, e la natura del contenitore la rende piuttosto instabile.
+Reputed to be fashioned by a Byzantine clan in an attempt to ward off a coven of witches, the Ring of Dispel (or Dispelling Ring, or Magic-Canceling Ring) eventually was given to Lancelot by the Lady in the Lake. Recovered by the Business Office after the emigration to New Amsterdam, it was assigned to Greenleaf for caretaking. ==> Si dice che l'Anello del Dissipamento (conosciuto anche come Anello Dissipante o Anello Annulla-Magie) sia stato forgiato da un clan bizantino per tenere lontana una congrega di streghe, e che alla fine sia stato donato a Lancillotto dalla Dama del Lago. Recuperato dall'Ufficio Affari dopo l'emigrazione a New Amsterdam, fu affidato alle cure di Fogliaverde.
+Silver is one of the only well known banes to the magical lupine species. In Bigby's case, the Crooked Man's assassin Blood Mary used this knowledge against him by firing Silver Bullets into Bigby's body. Not removing the silver from his body will cause long term damage and toxicosis. ==> L'argento è uno dei pochi punti deboli noti della specie magica dei lupi. Nel caso di Bigby, Bloody Mary, l'assassina del Crooked Man, ha sfruttato questa debolezza contro di lui sparandogli proiettili d'argento. Se l'argento non viene rimosso dal corpo, provoca danni permanenti e avvelenamento.
+After the Kidnapping of Ichabod Crane by the Crooked Man, Snow White's responsibilities at the Business Office naturally increased. In King Cole's absentia, new pressures, new problems and fate of Fabletown rest on her shoulders. Her new title, the Acting Deputy Mayor. ==> Dopo il rapimento di Ichabod Crane da parte del Crooked Man, le responsabilità di Bianca Neve all'Ufficio Affari sono inevitabilmente aumentate. In assenza di Re Cole, nuove pressioni, nuovi problemi e il destino stesso di Favolandia gravano sulle sue spalle. Il suo nuovo titolo: Vice Sindaco ad interim.
+The Butcher and his business has been the grand supplier of meats to the various members of the Fabletown community. His shop's large stores of bovine carcass fed well Trolls, Orgres and Lupines alike. However, with the ever growing reach of the Crooked Man's power, the shop fell and now only operates as a front. ==> Il Macellaio e la sua bottega sono stati a lungo i principali fornitori di carne della comunità di Favolandia. Le grandi scorte di carcasse bovine della macelleria sfamavano troll, orchi e lupi. Ma con l'espandersi del potere del Crooked Man, la bottega è caduta in rovina e ora funge solo da copertura.
+Den of Crooked Minions ==> Covo degli scagnozzi del Crooked Man
+The Crooked Lair ==> Il covo del Crooked Man
+Like all things and people who are forgotten, the Crooked Man dwells. This once illustrious mundy church was abandoned due to falling attendance and economic woes, without hesitation the Crooked Man turned it into his new homebase. As Bigby discovers, the only way in through a door with the Crooked Man's Catherine Wheel. The only way out, well that is the stuff of Fables. ==> Il Crooked Man dimora là dove dimorano tutte le cose e le persone dimenticate. Questa chiesa dei Terreni, un tempo illustre, fu abbandonata per il calo dei fedeli e per difficoltà economiche, e il Crooked Man non esitò a farne la sua nuova base. Come scopre Bigby, l'unico modo per entrare è una porta con la ruota di Santa Caterina del Crooked Man. Quanto all'unica via d'uscita... beh, quella è roba da Fiabe.
+The Crooked Man ==> Il Crooked Man
+There once lived a Crooked man who killed his wife, kids, neighbors, his neighbors neighbors, and all their dogs and he smiled a crooked smile. Dangerous, convincing and logical, the Crooked Man's power has grown beyond the reach of the Business Office. His bid for power has entangled nearly all Fables in Fabletown, providing them with their wishes and desires...but at a cost...you will always owe him in the end. ==> C'era una volta un uomo storto che uccise sua moglie, i suoi figli, i vicini, i vicini dei vicini e tutti i loro cani, e sorrise un sorriso storto. Pericoloso, persuasivo e lucido, il Crooked Man ha visto il suo potere crescere oltre la portata dell'Ufficio Affari. La sua scalata ha irretito quasi tutte le Fiabe di Favolandia, a cui offre ciò che desiderano... ma a un prezzo. Alla fine, sarai sempre in debito con lui.
+The financial dependancy of the Business Office on Bluebeard's money has put it in a political squeeze. This has allowed for him to have direct access to the Business Office and her officers, the Mayor and the Deputy Mayor. Through surrogate, he attempts to pressure the office of the Sheriff. ==> La dipendenza economica dell'Ufficio Affari dal denaro di Barbablù lo ha stretto in una morsa politica. Questo ha permesso a Barbablù di avere accesso diretto all'Ufficio Affari e ai suoi funzionari, il Sindaco e il Vice Sindaco. Attraverso degli intermediari, cerca di fare pressione sull'ufficio dello Sceriffo.
+With Ichabod Crane firmly out of the picture, and King Cole still absent, the task of leading Fabletown falls squarely on Snow's shoulders. She has performed many of the job's duties for a long time, picking up the slack for Crane. But now that she's fully in charge of the Business Office, she has to deal with a new level of politicking she had not previously been exposed to. ==> Con Ichabod Crane definitivamente fuori dai giochi e Re Cole ancora assente, il compito di guidare Favolandia ricade interamente sulle spalle di Neve. Da tempo svolgeva molte delle mansioni di quel ruolo, rimediando alle mancanze di Crane. Ma ora che è a capo dell'Ufficio Affari, deve affrontare un livello di intrighi politici con cui non aveva mai avuto a che fare.
+With its idyllic location, and managed community, the Farm would seem to be a welcome alternative to eking out an existence in Fabletown. But those who have lived there see it very differently. They see it for what it is: a prison. A place where you are free to be who you are and do whatever you please... except leave. It doesn't help that while Fables who appear human do not have to worry about being sent to the Farm, they always seem to fill the leadership roles there. ==> Con la sua posizione idilliaca e una comunità ben organizzata, la Fattoria sembrerebbe un'alternativa allettante rispetto a tirare avanti a stento a Favolandia. Ma chi ci ha vissuto la vede in modo molto diverso. La vede per quello che è: una prigione. Un luogo dove sei libero di essere te stesso e di fare tutto ciò che vuoi... tranne andartene. Non aiuta il fatto che le Fiabe dall'aspetto umano, pur non dovendo temere di essere mandate alla Fattoria, sembrino sempre occuparne i ruoli di comando.
+Once just a simple tool for felling trees, the axe became much more when it was ensorcelled by Druids and marked with their runes. But it truly became an object of legend when the Woodsman used it to slice the Big Bad Wolf from nave to neck, in protection of Little Red Riding Hood. It may carry Old World charm, but its simplicity of design and quality workmanship make it an effective tool - or weapon - even today. ==> Un tempo semplice attrezzo per abbattere gli alberi, l'ascia divenne molto di più quando i druidi la incantarono e la marchiarono con le loro rune. Ma diventò un oggetto davvero leggendario quando il Taglialegna la usò per squarciare il Grande Lupo Cattivo dall'ombelico al collo, per proteggere Cappuccetto Rosso. Avrà anche il fascino del Vecchio Mondo, ma la semplicità della forma e la qualità della fattura la rendono ancora oggi un attrezzo (o un'arma) efficace.
+Not all of the Fables who came to this world landed in Fabletown. There are those who scattered across the farthest corners of the Earth. And there are those who simply prefer the Garden State to the Empire State. Such is the Jersey Devil. Reports of its appearance have varied... although most accounts make mention of leathery wings. But an encounter with a certain axe of legend some years ago has temporarily rendered that feature absent. ==> Non tutte le Fiabe giunte in questo mondo sono approdate a Favolandia. Alcune si sono disperse negli angoli più remoti della Terra. E altre preferiscono semplicemente il Garden State all'Empire State. È il caso del Diavolo del Jersey. Le testimonianze sul suo aspetto sono discordanti... anche se quasi tutte parlano di ali coriacee. Ma qualche anno fa l'incontro con una certa ascia leggendaria l'ha temporaneamente privato di questa caratteristica.
+His name is often said in the same breath as that of the Baker and Candlestick Maker of Fabletown. And like those other tradesmen, Johann the Butcher's storefront has served Fabletown for ages: fresh cuts, exotic meats, and even full sides of beef for the vigorous appetites of ogres and trolls. But Johann's business has fallen on hard times and fallen in with the wrong crowd. As the quality of his products declined, and his business turned into a front operation for the Crooked Man, some have started to wonder if they ever really knew Johann. ==> Il suo nome viene spesso pronunciato insieme a quelli del Fornaio e del Candelaio di Favolandia. E come quegli altri artigiani, anche la bottega di Johann il Macellaio serve Favolandia da secoli: tagli freschi, carni esotiche e persino mezzene intere per l'appetito vorace di orchi e troll. Ma per gli affari di Johann sono arrivati tempi duri, e lui si è messo con la gente sbagliata. Con il calo della qualità dei suoi prodotti e la sua attività trasformata in una copertura per il Crooked Man, c'è chi ha cominciato a chiedersi se abbia mai conosciuto davvero Johann.
+One might think that Bluebeard donates funds to the Fabletown government for nefarious purposes - seeking special favors, or to have a louder voice in government proceedings. But what he really wants is stability and strength. Because, as far as Bluebeard is concerned, Fabletown exists to insulate him from the Mundy world. As much as his money can be a sword, it also serves as a shield. ==> Si potrebbe pensare che Barbablù finanzi il governo di Favolandia per scopi nefasti, come ottenere favori speciali o avere più voce in capitolo nelle decisioni del governo. Ma ciò che vuole davvero è stabilità e forza. Perché, per quanto riguarda Barbablù, Favolandia esiste per tenerlo al riparo dal mondo dei Terreni. Il suo denaro può essere una spada, ma è anche uno scudo.
+Occupying a desanctified church, this is just one of many locations the Crooked Man's operation uses to run the Fabletown underworld. It has a lounge atmosphere - more comfortable than meeting in a meat locker or a foundry. It is completely boarded up to the outside world, and the only way in is through one of the many portals, marked by a door with the Crooked Man's Catherine Wheel Icon, scattered throughout the city... and elsewhere. ==> Ricavato in una chiesa sconsacrata, è solo uno dei tanti luoghi che l'organizzazione del Crooked Man usa per gestire la malavita di Favolandia. Ha un'atmosfera da salotto: per un incontro, è più comodo di una cella frigorifera o di una fonderia. È completamente sbarrato verso l'esterno, e l'unico modo per entrarci è attraverso uno dei tanti portali sparsi per la città... e non solo, segnalati da una porta con il simbolo della ruota di Santa Caterina del Crooked Man.
+The Crooked Man has slowly built himself into one of the most powerful figures in Fabletown. His operation started with a crooked sixpence and a crooked house - two things he cared about more than his wife or children, whom he killed rather than let them stand in his way. In his rise, The Crooked Man has ensnared many Fables in his criminal web, providing them with what they need, but always at a high cost. He is cunning, persuasive, and ruthless. ==> Il Crooked Man è diventato a poco a poco una delle figure più potenti di Favolandia. La sua attività è cominciata con una moneta storta da sei pence e una casa storta: due cose a cui teneva più che a sua moglie e ai suoi figli, che ha ucciso pur di non averli tra i piedi. Nella sua ascesa, il Crooked Man ha intrappolato molte Fiabe nella sua rete criminale, fornendo loro ciò di cui hanno bisogno, ma sempre a caro prezzo. È astuto, persuasivo e spietato.
+While most Fables theorize that their longevity and overall wellbeing is improved by the Mundy world's knowledge of them, for a select few, that does not seem to apply. When a malady or injury is an integral part of a Fable's story, that notoriety can make recovery nearly impossible. That's what Tiny Tim thinks, at least. And no medical care or magic - rather, none that he can afford - can heal his leg. ==> Molte Fiabe ritengono che la loro longevità e il loro benessere crescano grazie alla notorietà di cui godono nel mondo dei Terreni, ma per alcune di loro non sembra valere. Quando una malattia o una ferita fa parte integrante della storia di una Fiaba, quella stessa notorietà può rendere la guarigione quasi impossibile. Almeno, così la pensa Tiny Tim. E nessuna cura medica o magia (o meglio, nessuna che possa permettersi) riesce a guarirgli la gamba.
+Occupying a desanctified church, this is just one of many locations the Crooked Man's operation uses to run the Fabletown underworld. Its lounge atmosphere makes for a comfortable meeting place, unless you are an unwelcome guest. It is completely boarded up to the outside world, and the only way in is through one of the many portals, marked by a door with the Crooked Man's Catherine Wheel Icon, scattered throughout the city... and elsewhere. ==> Ricavato in una chiesa sconsacrata, è solo uno dei tanti luoghi che l'organizzazione del Crooked Man usa per gestire la malavita di Favolandia. La sua atmosfera da salotto ne fa un comodo luogo d'incontro, a meno che tu non sia un ospite sgradito. È completamente sbarrato verso l'esterno, e l'unico modo per entrarci è attraverso uno dei tanti portali sparsi per la città... e non solo, segnalati da una porta con il simbolo della ruota di Santa Caterina del Crooked Man.
+The Big Bad Wolf ==> Il Grande Lupo Cattivo
+Bloody Mary began working for the Crooked Man many centuries ago. He promised her freedom to do as she pleased, as long as she agreed to act as his personal body guard and hit man. Because of the Crooked Man's power and influence, Mary never had to worry about getting caught by the authorities. She enjoys her job immensely, and would defend the Crooked Man to the death... mostly because she finds it fun. ==> Bloody Mary cominciò a lavorare per il Crooked Man molti secoli fa. Lui le promise la libertà di fare ciò che voleva, a patto che accettasse di fargli da guardia del corpo e da sicaria. Grazie al potere e all'influenza del Crooked Man, Mary non ha mai dovuto preoccuparsi di farsi prendere dalle autorità. Adora il suo lavoro e difenderebbe il Crooked Man fino alla morte... soprattutto perché la diverte.
+With Crane out of the picture, Mayor Cole has officially appointed Snow White as the Director of Operations and Deputy Mayor in his absence. Many would say this promotion is a long time coming, since she was instrumental in the establishment of Fabletown and personally ensured that many Fables made it to the new world safely. She's also been doing the work of Deputy Mayor unofficially for years. ==> Con Crane fuori dai giochi, il Sindaco Cole ha ufficialmente nominato Bianca Neve Direttrice delle Operazioni e Vice Sindaco in sua assenza. Molti direbbero che questa promozione era attesa da tempo, dato che Neve fu fondamentale nella fondazione di Favolandia e si assicurò di persona che molte Fiabe raggiungessero sane e salve il Nuovo Mondo. Inoltre, da anni svolgeva in via ufficiosa il lavoro di Vice Sindaco.
+
+# --- obiettivi ---
+Earn every Achievement in every episode of The Wolf Among Us. ==> Ottieni tutti gli Obiettivi di ogni episodio di The Wolf Among Us.
+Earned every Achievement in every episode of The Wolf Among Us. ==> Ottenuti tutti gli Obiettivi di ogni episodio di The Wolf Among Us.
+Interact with the knight in the Business Office ==> Interagisci con il cavaliere nell'Ufficio Affari
+Interacted with the knight in the Business Office ==> Hai interagito con il cavaliere nell'Ufficio Affari
+
+# --- interviste al cast ed extra (molte voci sono segnaposto degli sviluppatori) ---
+01:05 ==> =
+16:12 ==> =
+Achievement 09 ==> Obiettivo 09
+Achievement 10 ==> Obiettivo 10
+Achievement 11 ==> Obiettivo 11
+Achievement 12 ==> Obiettivo 12
+Achievement 13 ==> Obiettivo 13
+Achievement 14 ==> Obiettivo 14
+Achievement 16 ==> Obiettivo 16
+Achievement 18 ==> Obiettivo 18
+Achievement 19 ==> Obiettivo 19
+Achievement 20 ==> Obiettivo 20
+Achievement 21 ==> Obiettivo 21
+Achievement 22 ==> Obiettivo 22
+Achievement 23 ==> Obiettivo 23
+Achievement 24 ==> Obiettivo 24
+Achievement 25 ==> Obiettivo 25
+Achievement 26 ==> Obiettivo 26
+Achievement 27 ==> Obiettivo 27
+Achievement 28 ==> Obiettivo 28
+Achievement 31 ==> Obiettivo 31
+Achievement 32 ==> Obiettivo 32
+Achievement 33 ==> Obiettivo 33
+Achievement 34 ==> Obiettivo 34
+Achievement 35 ==> Obiettivo 35
+Achievement 36 ==> Obiettivo 36
+Achievement 37 ==> Obiettivo 37
+Achievement 38 ==> Obiettivo 38
+Achievement 39 ==> Obiettivo 39
+Achievement 40 ==> Obiettivo 40
+Achievement 41 ==> Obiettivo 41
+Achievement 42 ==> Obiettivo 42
+Achievement 43 ==> Obiettivo 43
+Achievement 44 ==> Obiettivo 44
+Achievement 45 ==> Obiettivo 45
+Achievement 46 ==> Obiettivo 46
+Achievement 47 ==> Obiettivo 47
+Achievement 48 ==> Obiettivo 48
+Achievement 49 ==> Obiettivo 49
+Achievement 50 ==> Obiettivo 50
+
+# --- crediti ---
+"A CROOKED MILE" ==> "LA LUNGA STRADA"
+"IN SHEEP'S CLOTHING" ==> "TRAVESTITO DA AGNELLO"
+A Crooked Mile ==> La Lunga Strada
+Smoke And Mirrors ==> Specchi e Inganni
+Death of a Stepsister ==> Morte di una Sorellastra
+A TELLTALE STORY BY ==> UNA STORIA TELLTALE DI
+FABLES CREATED BY ==> FABLES CREATO DA
+TELLTALE GAMES PRESENTS ==> TELLTALE GAMES PRESENTA
+
+# --- episodi ---
+"FAITH" ==> =
+BUTCHER SHOP ==> MACELLERIA
+EPISODE 4: ==> EPISODIO 4:
+Utilisez le stick analogique gauche pour vous deplacer et celui de droite pour regarder autour de vous. ==> Usa la levetta sinistra per muoverti, e la levetta destra per guardarti intorno.
+
+# --- scene eliminate ---
+(EP 5) Snow in Charge ==> (EP 5) Neve al comando
+Bigby returns to meet with Snow after the climatic ending only to find her overwhelmed with her new position. ==> Bigby torna a trovare Neve dopo il finale sorprendente,\nma la trova sopraffatta dal suo nuovo ruolo.
+FabletownWoodlands ==> FavolandiaBoschi
+
+# --- galleria immagini ---
+Crooked Man Color Options ==> Opzioni di colore del Crooked Man
+Crooked Man Early Concept ==> Concept iniziale del Crooked Man
+Snow Face Study ==> Studio del volto di Neve
+Snow Turnaround ==> Turnaround di Neve
+Snow Early Concept ==> Concept iniziale di Neve
+Crooked Man's Lair Concept ==> Concept del covo del Crooked Man
+Crooked Man's Office Concept - Unused ==> Concept dell'ufficio del Crooked Man - Inutilizzato
+Woody's Apt. Concept ==> Concept dell'appartamento di Woody
+Woodlands Lobby Concept ==> Concept dell'ingresso dei Boschi
+Woodlands Lobby Concepts Remastered ==> Concept della rimasterizzazione dell'ingresso dei Boschi
+Woody's Axe Remastered Concept ==> Concept della rimasterizzazione dell'ascia di Woody
+Woodlands Gate Concepts ==> Concept del cancello dei Boschi
+Woodlands Halls Concept Remastered ==> Concept della rimasterizzazione dei corridoi dei Boschi
+Snow Concept Remastered ==> Concept della rimasterizzazione di Neve
+Business Office Concept ==> Concept dell'Ufficio Affari
+Opens Arms Lobby Color Exploration ==> Esplorazione cromatica dell'ingresso del Braccia Aperte
+Open Arms Upstairs Concept ==> Concept del piano superiore del Braccia Aperte
+Crooked Man Lair Remastered ==> Rimasterizzazione del covo del Crooked Man
+Crooked Man Lair Entrance Remastered ==> Rimasterizzazione dell'ingresso del covo del Crooked Man
+Crooked Man Lair Hallway Remastered ==> Rimasterizzazione del corridoio del covo del Crooked Man
+Woodlanfs Lobby Concepts Remastered 2 ==> Concept della rimasterizzazione dell'ingresso dei Boschi 2
+Big Bad Wolf Remastered Concept ==> Concept della rimasterizzazione del Grande Lupo Cattivo
+Business Office remastered in Tool ==> Rimasterizzazione nel tool dell'Ufficio Affari
+Business Office remastered in Tool 2 ==> Rimasterizzazione nel tool dell'Ufficio Affari 2
+
+# --- menu: nomi dei personaggi nelle statistiche ---
+Crooked Man ==> Crooked Man
+Dee ==> Pancopinco
+Dum ==> Pincopanco
+Snow ==> Neve
+Woody ==> Woody
+Beauty ==> Bella
+Butcher ==> Macellaio
+Colin ==> Gimmi
+Crane ==> =
+Georgie ==> =
+Gren ==> =
+Holly ==> =
+Jack ==> =
+Lawrence ==> =
+Prince Lawrence ==> Principe Lawrence
+TJ ==> RJ
+Tiny Tim ==> =
+Toad ==> Rospo
+
+# --- menu: voci (stesse parole dell'ufficiale dove l'ha tradotto in un'altra copia) ---
+AUDIO & VIDEO ==> AUDIO E VIDEO
+EXTRAS > TELLTALE ACCOUNT ==> EXTRA > ACCOUNT TELLTALE
+Episode Not Installed ==> Episodio non installato
+JOIN ==> UNISCITI
+JOIN THE COMMUNITY! ==> ENTRA NELLA COMMUNITY!
+Logged in ==> Accesso effettuato
+MAYBE LATER ==> MAGARI PIÙ TARDI
+Not logged in ^font:MenuDisplaySmall.font^^glyphScale:0.7^EXTRAS > TELLTALE ACCOUNT ==> Accesso non effettuato\n^font:MenuDisplaySmall.font^^glyphScale:0.7^EXTRA > ACCOUNT TELLTALE
+OK ==> =
+RUMBLE ==> VIBRAZIONE
+VIBRATIONS ==> VIBRAZIONI
+SIGN IN ==> ACCEDI
+SPECIAL STATS ==> STATISTICHE SPECIALI
+Special Stats ==> Statistiche speciali
+Sign up for a free Telltale Account and get exclusive updates, content, and game news. ==> Crea un account Telltale gratuito per ricevere aggiornamenti, contenuti e notizie sul gioco in esclusiva.
+TELLTALE ACCOUNT ==> ACCOUNT TELLTALE
+
+# --- menu: schede delle scelte (a capo come nell'inglese) ---
+You promised to bring the Crooked Man back alive. ==> Hai promesso\ndi riportare vivo\nil Crooked Man.
+You accepted his beetle and promised to give it to Snow. ==> Hai accettato il suo\ncoleottero e promesso\ndi darlo a Neve.
+You stood up for him when Snow wanted to send him to the Farm. ==> Hai preso le sue difese\nquando Neve voleva\nmandarlo alla Fattoria.
+You offered him protection at the Business Office. ==> Gli hai offerto\nprotezione\nnell'Ufficio Affari.
+You sent Colin to the farm. ==> Hai mandato Gimmi\nalla Fattoria.
+You reported him to Snow for burglary. ==> L'hai segnalato\na Neve per furto.
+You refused to take his present to Snow. ==> Hai rifiutato\ndi portare il suo regalo\na Neve.
+You confiscated Dee's money while he was in custody. ==> Hai confiscato\ni soldi di Pancopinco\nmentre era in custodia.
+You asked him to kill his son. ==> Gli hai chiesto\ndi uccidere suo figlio.
+You brought her along with you to the Trip Trap. ==> L'hai portata\nal Trip Trap\ninsieme a te.
+You chose to burn him with a cigar during the interrogation. ==> Hai scelto di bruciarlo\ncon un sigaro\ndurante l'interrogatorio.
+You chose to wait for him. ==> Hai scelto\ndi aspettarlo.
+You defended his son on the drug store. ==> Hai difeso suo figlio\nal drugstore.
+You gave her a cigarette during your final conversation. ==> Le hai dato una sigaretta\ndurante la vostra\nultima conversazione.
+You gave him a drink when he asked for one in your apartment. ==> Gli hai dato da bere\nquando te l'ha chiesto\nnel tuo appartamento.
+You interrupted her sister's funeral. ==> Hai interrotto\nil funerale di sua sorella.
+You promised her you wouldn't tell Beast that you saw her outside the apartment. ==> Le hai promesso\nche non avresti detto a Bestia\ndi averla vista\nfuori dall'appartamento.
+You promised her you wouldn't tell Beast that you saw her outsire the apartment. ==> Le hai promesso\nche non avresti detto a Bestia\ndi averla vista\nfuori dall'appartamento.
+You slapped him during the interrogation in his apartment. ==> Gli hai dato uno schiaffo\ndurante l'interrogatorio\nnel suo appartamento.
+You threw him out of the Trip Trap. ==> L'hai buttato fuori\ndal Trip Trap.
+You told him about your past. ==> Gli hai parlato\ndel tuo passato.
+You tried to remove her ribbon at the Pudding N' Pie. ==> Hai cercato\ndi toglierle il nastro\nal Pudding & Pie.
+You tried to take her ribbon off in Bigby's office. ==> Hai cercato\ndi toglierle il nastro\nnell'ufficio di Bigby.
+He was lost to the herd trying to save Ben. ==> È stato travolto dall'orda\nmentre cercava di salvare Ben.
+
+# --- righe ufficiali uniformate al glossario 2014 (Fiabe, Terreni, Pozzo delle Streghe, nomi) ---
+The Witching Well ==> Il Pozzo delle Streghe
+Witching Well Remastered 1 ==> Rimasterizzazione del Pozzo delle Streghe 1
+Witching Well Remastered 2 ==> Rimasterizzazione del Pozzo delle Streghe 2
+Witching Well Concepts ==> Concept del Pozzo delle Streghe
+You took him back to the Witching Well. ==> L'hai riportato\nal Pozzo delle Streghe.
+You tossed him down the Witching Well. ==> L'hai gettato\nnel Pozzo delle Streghe.
+Tiny Tim ==> Tiny Tim
+Clever Hans ==> Hans l'Intelligente
+Briar Rose ==> Rosaspina
+The Briar Rose's finger is pricked by the magic needle, it will not only put her to sleep, but a large group of people in a radius. Rose briars grow and sprout throughout where Sleeping Beauty lays. ==> Se il dito di Rosaspina viene punto dall'ago magico, non si addormenta solo lei, ma anche un folto gruppo di persone tutt'intorno. Rovi di rose crescono e germogliano ovunque giaccia la Bella Addormentata.
+Please connect your PlayStation®Vita system to the Internet ==> Collega il tuo sistema PlayStation®Vita a Internet
+The New Deputy Mayor ==> La nuova Vice Sindaco
+Final Resting Place of Fable Dead ==> Eterna dimora delle Fiabe defunte
+You don't, okay? There's no problem, I'll be quiet. Mundies are my problem too. ==> No, ok? Non c'è problema, non farò rumore. Anche i Terreni sono un problema mio.
+Non, t’auras aucun problème, je vais me tenir tranquille. Je veux pas d’ennuis avec les Communs. ==> No, ok? Non c'è problema, non farò rumore. Anche i Terreni sono un problema mio.
+In this alternate version of the scene that occurs after the fight Bigby and Faith must clean up the resulting wreckage including hiding the Woodsman and discreetly dealing with the rest of the evidence. It features a freewalk and many different conversation options not available in the original scene along with fending off a mundy cop who arrives near the end. ==> In una versione alternativa di questa scena, che si svolge dopo la lite, Bigby e Faith devono ripulire i danni provocati, nascondere il Taglialegna e sbarazzarsi del resto delle prove senza dare nell'occhio. Include la possibilità di muoversi liberamente e molte opzioni di dialogo non disponibili nella scena originale, compresa quella in cui si deve mandare via un poliziotto Terreno che arriva verso la fine.
+Lily and her sister Holly grew up in the Homelands together, but had a falling out shortly after moving to the mundane world. Aimless and increasingly destitute, Lily turned to prostitution, and now she's the second victim in an ongoing murder investigation. ==> Lily e sua sorella Holly sono cresciute insieme nelle Terre Natie, ma il loro rapporto si è incrinato poco dopo il trasferimento nel mondo dei Terreni. Senza uno scopo e sempre più al verde, Lily ha cominciato a prostituirsi, e ora è la seconda vittima di un'indagine per omicidio ancora aperta.
+Clever Hans always does exactly as he's told. However, he often misunderstands his instructions and ends up hurting himself or behaving oddly, as in the case of his noted fable, where he threw sheep's eyes at his wife. Unsurprisingly, she left him, and now Hans works as a bouncer at Georgie's club. He hopes to dance on stage one day, but for now he's content sweeping up and making sure the crowd doesn't get out of hand. ==> Hans l'Intelligente fa sempre esattamente ciò che gli viene detto. Spesso, però, fraintende gli ordini e finisce per farsi male o per comportarsi in modo strano, come nella sua celebre fiaba, in cui lanciò occhi di pecora a sua moglie. Com'era prevedibile, lei lo lasciò, e ora Hans lavora come buttafuori nel locale di Georgie. Spera di ballare sul palco, un giorno, ma per ora si accontenta di spazzare i pavimenti e di fare in modo che la folla non perda il controllo.
+Nerissa's story never had a happy ending. She's known as the Little Mermaid, the young girl who gave up her tail for a pair of legs in the hopes of winning the heart of a handsome prince. When he married a princess instead, Nerissa was left heartbroken. She made the journey to the mundane world hoping for a better life. Now she dances at the Pudding and Pie, but each step she takes feels like walking on shards of glass. She has very little left, but finds some comfort in the company of her fellow dancers. ==> La storia di Nerissa non ha mai avuto un lieto fine. È conosciuta come la Sirenetta, la ragazza che rinunciò alla sua coda in cambio di un paio di gambe, nella speranza di conquistare il cuore di un bel principe. Quando lui sposò invece una principessa, Nerissa rimase con il cuore spezzato. Partì per il mondo dei Terreni in cerca di una vita migliore. Ora balla al Pudding & Pie, ma ogni passo che fa è come camminare su schegge di vetro. Le è rimasto ben poco, ma trova un po' di conforto nella compagnia delle altre ballerine.
+Back in the Homelands, Blubeard lived a life of opulence. After a long line of marriages resulting in "mysterious disappearances", he found the search for his next wife difficult. Eventually he persuaded the younger of two sisters to marry him, and they lived happily until Bluebeard left her alone in his estate. He gave her free reign of all the rooms, but made her promise not to open the closet on the ground floor. She defied him, of course, and discovered the location of the missing wives. When Bluebeard returned, she was unable to hide her discovery from him, and he resolved to kill her. She persuaded him to allow her a moment to pray, which he reluctantly granted. This small mercy gave her brothers time to arrive and rescue her from sure death, seizing Bluebeard's property in the process. How he recovered his fortune after that is a mystery, but it is rumored he charged a fee for helping refugees cross over to the mundy world during the Exodus. ==> Quando abitava ancora nelle Terre Natie, Barbablù conduceva una vita nell'opulenza. Dopo una lunga serie di matrimoni finiti con "misteriose scomparse", trovare una nuova moglie gli si rivelò difficile. Alla fine convinse la più giovane di due sorelle a sposarlo, e i due vissero felici finché Barbablù non la lasciò da sola nella sua tenuta. Le diede libero accesso a tutte le stanze, ma le fece promettere di non aprire lo stanzino al piano terra. Lei, naturalmente, gli disobbedì e scoprì dove erano finite le mogli scomparse. Quando Barbablù tornò, lei non riuscì a nascondergli la sua scoperta, e lui decise di ucciderla. Lei lo convinse a concederle un momento per pregare, e Barbablù acconsentì a malincuore. Quel piccolo atto di pietà diede ai fratelli di lei il tempo di arrivare e di salvarla da morte certa, impadronendosi nel frattempo dei beni di Barbablù. Come sia riuscito poi a rifarsi una fortuna resta un mistero, ma si dice che durante l'Esodo si facesse pagare per aiutare i profughi a raggiungere il mondo dei Terreni.
+The oldest bar in New York City, the Trip Trap was established in 1725 in secret by Starkad - the legendary Viking and reprobate - as a place for Fables to meet and drink and commiserate. Known then as The Grammarian's Tavern, he eventually lost it in a bet to a small tribe of Trolls, who quickly renamed it and made it their own. Holly is the current proprietor, having inherited in from her mother when she died in a boating accident in the early 20th century. ==> Il bar più antico di New York City, il Trip Trap, fu fondato in segreto nel 1725 da Starkad, il leggendario vichingo e furfante, come luogo in cui le Fiabe potessero incontrarsi, bere e piangersi addosso. All'epoca si chiamava The Grammarian's Tavern, ma Starkad finì per perderlo in una scommessa con una piccola tribù di troll, che lo ribattezzarono in fretta e lo fecero proprio. L'attuale proprietaria è Holly, che l'ha ereditato dalla madre, morta in un incidente in barca all'inizio del Novecento.
+The oldest bar in New York City, the Trip Trap was established in 1725 in secret by Starkad - the legendary Viking and reprobate - as a place for Fables to meet and drink and commiserate. Known then as the Grammarian's Tavern, he eventually lost it in a bet to a tribe of mountain trolls, who quickly renamed it and made it their own. Holly is the current proprietor, having inherited it from her mother when she died in a boating accident in the early 20th century. ==> Il bar più antico di New York City, il Trip Trap, fu fondato in segreto nel 1725 da Starkad, il leggendario vichingo e furfante, come luogo in cui le Fiabe potessero incontrarsi, bere e piangersi addosso. All'epoca si chiamava Grammarian's Tavern, ma Starkad finì per perderlo in una scommessa con una tribù di troll di montagna, che lo ribattezzarono in fretta e lo fecero proprio. L'attuale proprietaria è Holly, che l'ha ereditato dalla madre, morta in un incidente in barca all'inizio del Novecento.
+The true history of the person known as "Bloody Mary" is almost completely unknown, even to Fables most acquainted with its members. Her name Mary, at least, is not up for contention, nor is her penchant for shocking violence, an inlaid resistance to magic and spells, and a strange ability to use any reflective surface as a portal, effectively short-cutting space and time. Thought by mundies to be the wailing apparition of a childless ghost, though any evidence of that is as yet unseen. ==> La vera storia della persona nota come "Bloody Mary" è quasi del tutto sconosciuta, persino alle Fiabe che meglio conoscono la sua cerchia. Almeno sul nome, Mary, non ci sono dubbi, così come sulla sua passione per la violenza più efferata, sulla sua innata resistenza a magie e incantesimi e sulla strana capacità di usare qualsiasi superficie riflettente come un portale, accorciando di fatto spazio e tempo. I Terreni la credono l'apparizione lamentosa di un fantasma senza figli, ma finora non se n'è mai vista alcuna prova.
+One of the most dangerous weapons in Fabletown, the Woodsman's axe was cast on by ancient magic, ensorcelled and marked with runes long ago in a land far far away. It is one of the only known weapons to have eviserated Bigby's stomach through during one their epic battles recorded in their entertwining Fable. ==> Una delle armi più pericolose di Favolandia, l'ascia del Taglialegna fu forgiata con un'antica magia, incantata e marchiata con delle rune tanto tempo fa, in una terra lontana lontana. È una delle pochissime armi note ad aver squarciato lo stomaco di Bigby, durante una delle epiche battaglie narrate nella fiaba che li lega.
+The plague of criminality and the unethical spawns this offspring of hell. Throughout time there was been more than one Devil titled with their Toponym. The Jersey Devil is one more soldier in the legion of Devils found through out time. From the Native American tribes of Lenni Lenape story to the latest incarnation commonly known by New Jerseyans. He is the 13th child of a witch who stated he would be born a Devil. Thus starts the Fable of the Jersey Devil. ==> La piaga della criminalità e dell'immoralità ha dato vita a questa progenie infernale. Nel corso dei secoli, più di un Diavolo ha preso il nome dal suo luogo d'origine, e il Diavolo del Jersey è solo un altro soldato nella legione di Diavoli esistiti nel corso della storia: dai racconti delle tribù native dei Lenni Lenape fino all'ultima incarnazione, quella che conoscono bene gli abitanti del New Jersey. È il tredicesimo figlio di una strega che aveva predetto che sarebbe nato Diavolo. Così comincia la fiaba del Diavolo del Jersey.
+One of the few Fables to find fortune in this world, Briar Rose has even turned her weakness into a strength. When her finger is pricked, it not only puts her to sleep, but also those within a certain radius of her slumber. This can be a powerful tool, and is just one of the ways this Sleeping Beauty is more than just a pretty face. If only she didn't need a kiss from a prince to wake her up. ==> Una delle poche Fiabe ad aver fatto fortuna in questo mondo, Rosaspina è persino riuscita a trasformare la sua debolezza in un punto di forza. Quando le si punge un dito, non si addormenta solo lei, ma anche chiunque si trovi entro un certo raggio. Può essere un'arma potente, ed è solo uno dei motivi per cui questa Bella Addormentata è molto più di un bel faccino. Peccato che le serva il bacio di un principe per svegliarsi.
+Vivian and Georgie met during the Exodus from the Homelands, and they helped each other survive the long journey to the mundane world. Upon their arrival, however, they found it hard to make a decent living. With what little money they had, they opened the Pudding N' Pie. Operating a strip club may not have been the most desirable occupation, but they figured it was better to be in charge of a place like this than be forced through desperation to work at one. ==> Vivian e Georgie si conobbero durante l'Esodo dalle Terre Natie e si aiutarono a vicenda a sopravvivere al lungo viaggio verso il mondo dei Terreni. Una volta arrivati, però, faticarono a guadagnarsi da vivere in modo dignitoso. Con i pochi soldi che avevano, aprirono il Pudding & Pie. Gestire uno strip club non era forse il lavoro dei sogni, ma pensarono che fosse meglio mandare avanti un posto del genere piuttosto che finire a lavorarci per disperazione.
+In the alternate finale Bigby deals with the Fables leaving for the farm and a final meet up with Nerissa that leaves more questions than answers. ==> Nel finale alternativo, Bigby deve gestire le Fiabe\nche partono per la Fattoria e un ultimo incontro con Nerissa\nche lascia più domande che risposte.
+"The gaze of Great Mother Death is always upon us. Beneath her affectionate eye we fight our battles. We nurse our wounds. We shout our victories. We endure our sorrows. And when we fall, she is there. Her embrace is the silence of the mountain, the heavy peace of the Stone." - Approximately translated. A troll funeral is a sacred ritual, passed down by oral traditions from troll-mother to son. It begins at sunset with the creation of the Cairn, a small pile of stones to represent the many generations of trolls that have traveled and died before them, the foundation upon which the living stand. Weapons are divided amongst the troll's closest comrades, the body and the rest of their possessions are burned, and though each viewer must speak to the life of the lost, the eulogy's candor would make a mundy blush. ==> "Lo sguardo della Grande Madre Morte è sempre su di noi. Sotto il suo occhio affettuoso combattiamo le nostre battaglie. Curiamo le nostre ferite. Gridiamo le nostre vittorie. Sopportiamo i nostri dolori. E quando cadiamo, lei è lì. Il suo abbraccio è il silenzio della montagna, la pace greve della Pietra." - Traduzione approssimativa. Il funerale dei troll è un rito sacro, tramandato oralmente di madre troll in figlio. Comincia al tramonto con la costruzione del Cairn, un piccolo cumulo di pietre che rappresenta le tante generazioni di troll che hanno viaggiato e sono morte prima di loro, le fondamenta su cui poggiano i vivi. Le armi vengono divise tra i compagni più stretti del troll, il corpo e il resto dei suoi averi vengono bruciati e, sebbene ogni presente debba dire qualcosa sulla vita del caduto, la franchezza dell'elogio funebre farebbe arrossire un Terreno.
+
+# --- correzioni forzate (righe della traduzione 2014 da migliorare; formato "! inglese ==> italiano") ---
+# voci troppo lunghe per lo spazio che hanno nel menu (finivano sotto le frecce o tagliate);
+# "Punti Attivi" come nella traduzione 2014
+! SELECTABLES ==> PUNTI ATTIVI
+! Selectables ==> Punti attivi
+! QTE TAP ASSIST ==> ASSISTENZA QTE
+! Go Back/Resume ==> Indietro/\nRiprendi

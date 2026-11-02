@@ -1,3 +1,5 @@
 # file del gioco: copiati byte per byte, senza conversione degli a capo
 Archives/** binary
 *.png binary
+# i .bat di Windows vogliono gli a capo CRLF
+*.bat text eol=crlf
